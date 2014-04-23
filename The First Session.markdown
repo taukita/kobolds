@@ -1,0 +1,91 @@
+
+##The First Session
+
+To begin each player creates a kingdom that neighbors the land your village is on. Answer the following for each kingdom.
+ 
+* Who inhabits the Kingdom?
+
+* How is the kingdom structure? (oligarchy/theocracy/democracy etc.)
+
+* Why do you believe they hate your people?
+
+* Who is their greatest champion?
+
+* What are they known for?
+
+* What do they want from your lands?  (adds +1 pressure on your village)
+
+
+###Making your map
+Using your village as the center point draw a landmark to represent each Kingdom on your map. It can be the capital city, a great dungeon that exists in the kingdom's borders, a road, a forest or anything else you can think up!
+
+
+##Creating Your Village
+
+*If your village dies, you all die. That's the paramount tenant in Kobold society.*
+
+Your village is the central character of No Country For Old Kobolds. Everyone should be working to make sure the village survives and prospers in the face of horrible external pressure. As you grow your village your Kobolds will start to inherit new abilities and tactics passed down from their forbearers in the form of shared moves. These moves allow for new units on the battle field, the alleviation of wants, the cessation - for a time - of an external pressure and overall improvements to your Kobolds health. If your village dies, you all die. That's the paramount tenant in Kobold society. Throughout the game you'll need to keep tabs on how much pressure is being applied by the surrounding kingdoms and how dire wants within the village are. Your Kobolds and their progeny are the leaders and warriors of the village, they are the epitome of Kobold kind... though the other races don't seem to think much of that.
+
+#####Stats
+The village has 6 stats
+
+>Warfare - How well your village can go on the offensive in order to protect itself.
+
+>Adaptability - How well your village can adapt an ever changing situation.
+
+>Hardiness - How healthy your village is and what size your population is.
+
+>Ingenuity - How clever and industrious your village is.
+
+>Teamwork - How well your village works together toward common goals.
+
+>Secrecy - How well your village keeps itself hidden using camouflage or trickery -- or both!
+
+Your population is 3x your hardiness. Once your population reaches zero your village is razed and you've failed as Kobolds.
+
+Assign the following to your stats. 3,2,2,1,1,0 to your village.
+
+
+###Village Background
+Answer the following about your village.
+
+> Birthrate is paramount to your people, what is it about this site that allows for such an accelerated birthrate? What +want does this create for your village?
+
+> Who is the oldest Kobold in your village? How old are they and how did they get so old?
+
+
+Now it's time to create your Kobolds! 
+
+##Building your Kobolds
+
+Follow the below steps to build your first Kobold and family.
+
+#####Name 
+*This is your curent Kobolds name.*
+
+#####Family Name
+*This is the name of your Kobolds family carried from generation to generation.* 
+
+#####Looks
+>Eyes: Sad eyes, Weary Eyes, Mean Eyes, Milky Eyes, Feeble Eyes
+
+>Horns: Myriad Horns, Chipped Horns, Stubby Horns, No Horns
+
+>Frame: Short, extra weight, Thin, Gangly
+
+>Scales: Ruddy Scales, Gray Tint Scales, Green Tint Scales, Brown Scales
+
+#####Stats
+Kobolds have 6 stats. 
+>Strength - How much you can lift, how hard you can punch.
+
+>Dexterity - How nimble fingered you are, how well you can hide.
+
+>Constitution - How hardy you are, how much punishment you can take.
+
+>Intelligence - How smart you are, how quickly you learn.
+
+>Wisdom - How well you can apply what you know, 'common sense'
+
+>Charisma - How well liked you are by other Kobolds, you're never liked by other races.
+
