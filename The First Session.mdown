@@ -51,9 +51,9 @@ Assign the following to your stats. 3,2,2,1,1,0 to your village.
 ###Village Background
 Answer the following about your village.
 
-> Birthrate is paramount to your people, what is it about this site that allows for such an accelerated birthrate? What +want does this create for your village?
+1. Birthrate is paramount to your people, what is it about this site that allows for such an accelerated birthrate? What +want does this create for your village?
 
-> Who is the oldest Kobold in your village? How old are they and how did they get so old?
+2. Who is the oldest Kobold in your village? How old are they and how did they get so old?
 
 
 Now it's time to create your Kobolds! 
