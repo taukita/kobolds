@@ -231,8 +231,19 @@ You should do the following at all times while running *No Country For Old Kobol
 * Embrace the fantastic
 * Make moves that follow the fiction
 * Never speak the name of your moves
-* 
+
+
+
 ###Village Wants
 [xv information on how to leverage wants to drive fiction]
+
 ###External Pressures
 [xv information on how to leverage external pressures to drive fiction]
+
+
+
+
+#####Copyright things
+Dungeon World is copyright Sage LaTorra and Adam Koebel licensed under the Creative Commons Attribution 3.0 Unported License.
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
