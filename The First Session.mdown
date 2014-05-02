@@ -55,7 +55,7 @@ The village has 6 stats
 Your population is 3x your hardiness. Once your population reaches zero your village is razed and you've failed as Kobolds.
 
 Assign the following to your stats 3,2,2,1,1,0 to your village.
-
+--if you assign 0 to hardiness you lose automatically.... 
 
 ###Village Background
 Answer the following about your village.
@@ -73,6 +73,25 @@ Answer the following about your village.
 ###Village Moves
 
 [zx include exciting village moves here]
+
+**Recruit**
+When you would like to recruit additional Kobolds to help with a task roll +teamwork xv Change this to current pop maybe? xv 
+
+On a 10+ you get two units of kobolds, reduce your population by 2. 
+
+On a 7-9 you get one unit of kobolds, reduce your population by 1.
+
+On a 6 or less the other kobolds in the village life at you and something terrible happens.
+
+
+###Population increase
+When you fulfill a want for your village roll the breed move.
+
+**Breed** 
+Your village has entered a breeding phase. Roll +hardiness
+On a 10+ add 2d6 to your population.
+On a 7-9 add 1d6 to your population.
+On a 6 or less something terrible has happened. 
 
 
 
@@ -112,6 +131,8 @@ Kobolds have 6 stats.
 >Charisma - How well liked you are by other Kobolds, you're never liked by other races.
 
 For your first generation Kobold assign the following to your stats in any order 1,1,0,0,-1,-1. All future Kobolds will inherit their parents stat block. 
+#####Hit Points
+1d6+Con
 
 #####Skills
 
