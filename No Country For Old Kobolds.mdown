@@ -255,7 +255,7 @@ You should do the following at all times while running *No Country For Old Kobol
 
 **Fill the characters lives with equal parts misery and success.** The characters world should be miserable, a Kobolds life is tough and it should be apparent. These aren't adventurers, they're the prey. Life is a struggle to keep the rest of your village alive and play should reflect that. However, sometimes things work out for them. They'll be able to warn off some adventurers, kill some others and trick a few as well. Let them have their wins, they won't last long.
 
-**Play to find out what happens.** This is, at its heart, a game of collaboration. Don't plan everything out, let the fiction travel where it may. Overplanning will lead to a poor gaming experience for you and your players. 
+**Play to find out what happens.** This is, at its heart, a game of collaboration. Don't plan everything out, let the fiction travel where it may. Overplanning will lead to a poor gaming experience for you and your players. Let wants and pressures and their associated moves inform the fiction. 
 
 ###Principles
 * Draw maps, leave blanks.
@@ -273,7 +273,8 @@ You should do the following at all times while running *No Country For Old Kobol
 [xv information on how to leverage external pressures to drive fiction]
 
 
-
+###Murder Hobos
+Murder hobos are the kobolds natural enemy in the wild. 
 
 #####Copyright things
 Dungeon World is copyright Sage LaTorra and Adam Koebel licensed under the Creative Commons Attribution 3.0 Unported License.
