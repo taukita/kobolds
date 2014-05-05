@@ -5,6 +5,17 @@
 
 ##Introduction
 [xv insert witty opening about murderhobos, kobolds and what not.]
+In the wild the Murder Hobo, xv Adventurus Low Levelus, is the kobolds natural enemy. For thousands of years the kobold race has struggled against the surrounding kingdoms, despreately trying to out breed the xv moar words!
+
+##Rolling Dice
+
+Whenever you want to do something roll 2d6+stat.
+On a 10+ you succeed.
+On a 7-9 you succeed with a cost.
+On a 6 or less you fail, the GM will tell you what happens. 
+
+If you have a skill that would affect the action you're trying to take on a 6 or less you still succeed but at a terrible cost. 
+
 
 ##The First Session
 
@@ -52,10 +63,10 @@ The village has 6 stats
 
 >Secrecy - How well your village keeps itself hidden using camouflage or trickery -- or both!
 
-Your population is 3x your hardiness. Once your population reaches zero your village is razed and you've failed as Kobolds.
+Your population is 3x your hardiness, minimum 1. Once your population reaches zero your village is razed and you've failed as Kobolds.
 
 Assign the following to your stats 3,2,2,1,1,0 to your village.
---if you assign 0 to hardiness you lose automatically.... 
+
 
 ###Village Background
 Answer the following about your village.
@@ -74,18 +85,18 @@ Answer the following about your village.
 
 [zx include exciting village moves here]
 
+#####Starting Moves
 **Recruit**
-When you would like to recruit additional Kobolds to help with a task roll +teamwork xv Change this to current pop maybe? xv 
+When you would like to recruit additional Kobolds to help with a task roll +teamworks xv Change this to current pop maybe? xv 
 
 On a 10+ you get two units of kobolds, reduce your population by 2. 
 
 On a 7-9 you get one unit of kobolds, reduce your population by 1.
 
-On a 6 or less the other kobolds in the village life at you and something terrible happens.
-
+On a 6 or less the other kobolds in the village laugh at you and something terrible happens.
 
 ###Population increase
-When you fulfill a want for your village roll the breed move.
+When you fulfill a want for your village you may roll the breed move.
 
 **Breed** 
 Your village has entered a breeding phase. Roll +hardiness
