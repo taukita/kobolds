@@ -5,7 +5,7 @@
 
 ##Introduction
 [xv insert witty opening about murderhobos, kobolds and what not.]
-In the wild the Murder Hobo, xv Adventurus Low Levelus, is the kobolds natural enemy. For thousands of years the kobold race has struggled against the surrounding kingdoms, despreately trying to out breed the xv moar words!
+In the wild the Murder Hobo, xv Adventurus Low Levelus, is the kobolds natural enemy. For thousands of years the kobold race has struggled against the surrounding kingdoms, despreately trying to out breed the ravages visited upon them by their barbaric neighbors. xv moar words!
 
 ##Rolling Dice
 
@@ -215,14 +215,14 @@ divine guidance.
 Kobold magic is a bit ... odd. Because of their short lifespans the Kobolds have never mastered true control over magical forces instead they rely on a sort of wild elemental magic that can have some ... unintended consequences.
 
 ######Channel Magic
-Roll +Int and describe the element you are channeling and the desired effect.
+Roll +Int and describe the element you are channeling and the desired effect. Channeling deals 2d6+int damage, 3d6+int if the spell is well suited to the situation (casting fireball on a kindling elemental for instance)
 
 On a 10+ the channel works as intended.
 On a 7-9 the channel works but choose 1:
  You draw unwanted attention.
  The channeling is taxing - take 1d4 damage.
  The channeling works but has unitended consequences, the GM will tell you what.
-On a 6 or less take 1d4 damage from the failed channeling and the GM will tell you what else happens.
+On a 6 or less take 1d4 damage from the failed channeling and the GM will tell you what calamity befalls you and your kin.
 
 #####Advancing
 
