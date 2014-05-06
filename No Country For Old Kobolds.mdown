@@ -82,8 +82,13 @@ Answer the following about your village.
 5. What critical resource is in short supply, how do you acquire this resource? Add this as a +want for your village.
 
 ###Village Moves
+**Kobold Riders** Your Kobolds are now mounted warriors! This allows your Kobolds to always succeed in running away! Describe what your Kobolds ride and how they domesticated these beasts!
 
-[zx include exciting village moves here]
+**Hardy Kobolds** Your Kobold champions are hardier than other kobolds. They can roll 2d6+con keeping the highest d6 for hit points! Why at that point you're basically a tank!
+
+**A bit of the ultraviolence** Your champion Kobolds have grown up extra violent! They can deal an additional 1d4 damage when attacking from melee.
+
+**
 
 #####Starting Moves
 **Recruit**
@@ -100,11 +105,12 @@ When you fulfill a want for your village you may roll the breed move.
 
 **Breed** 
 Your village has entered a breeding phase. Roll +hardiness
-On a 10+ add 2d6 to your population.
-On a 7-9 add 1d6 to your population.
+On a 10+ add 1d6 to your population.
+On a 7-9 add 1d6 to your population but add +want.
 On a 6 or less something terrible has happened. 
 
-
+##Want clocks
+Each want has a clock, as it increases so does the pressure of that want. If a want reaches 6 [xv I dunno... maybe higher?] you lose 1 population.
 
 Now it's time to create your Kobolds! 
 
@@ -236,9 +242,13 @@ Kobolds inherit their family name as well as 1 of their parents skills in additi
 
 ###Combat
 ####Kobold level Combat
-[xv information about basic combat by player kobolds]
+As a champion kobold you deal 1d6+str damage in melee and 1d6+dex at range. This can be modified by village moves and certain weapons. If your hit points reach 0 you are dead. There is no last breath, there is no chance to heal. Kobolds die and die regularly, deal with it.
+
+
 ####Unit level Combat
-[xv information about unit level combat - Inglorious style]
+Units have two stats, damage and morale. Each round a unit will deal its damage to the opposing units morale. If morale reaches 0 all members of the unit are considered dead. Congratulations, you've just helped kill off 1/5th of your population - hope it was worth it!
+
+A single village kobold will do 1 point of damage per round, units are made up of 10 kobolds. When working at a unit level, assume 1 unit damage for every 10 kobolds and 10 hit points for every 1 morale. A murder hobo with 3 morale has 30 hit points for character to npc damage and 3 morale for unit level damage. 
 
 ##Running the Game
 ###GM
@@ -267,6 +277,7 @@ You should do the following at all times while running *No Country For Old Kobol
 
 
 ###Village Wants
+Wants are constant throughout the story. Use a clock for each want in the village and use your moves to advance the clocks. When a clock reaches midnight it has become so critical that 1d4 population are lost because of it. 
 [xv information on how to leverage wants to drive fiction]
 
 ###External Pressures
