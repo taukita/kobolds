@@ -6,9 +6,15 @@
 ##Introduction
 *For thousands of years the more adventurous youth of our kingdom have gone forth to slay hoards of the filthy kobold race. These violent, diseased, and rabid vermin deserve to be wiped out. They must be wiped out. Our kingdom can not stand, our gods will not bless us, our children will not be safe until we wipe this blight from our lands. This is why we cheer our returning youth as heroes! Each drop of kobold blood is another ring in our armor, another blessing from our gods, another safe home for our kingdom.* - Thaddeus Blamtoun, Scholar, The Great Library of Kingdom in the Clouds.
 
+Kobolds don't know why they are so hated, all they know is that they are. It's the world they live in and considering they only live around 2 years - though they could live much longer if it werent for the constant pressures - they hardly have time to find out.
 
+No Country For Old Kobolds is a game built to explore the situation that kobolds in normal fantasy games find themselves in. Why are they so hated? What effect does constant genocide attempts by first level adventurers have on them as a people? It can be depressing, it can be funny and it can be dark. It's usually a bit of all of those. It's black comedy that goes for the jugular.
 
-##Rolling Dice
+I hope you have fun.
+##Playing the game
+
+###Combat
+####Rolling Dice
 
 Whenever you want to do something roll 2d6+stat.
 On a 10+ you succeed.
@@ -16,6 +22,29 @@ On a 7-9 you succeed with a cost.
 On a 6 or less you fail, the GM will tell you what happens. 
 
 If you have a skill that would affect the action you're trying to take on a 6 or less you still succeed but at a terrible cost. 
+
+####Levels of play
+
+This game is built to run on a three different levels of play, you'll zoom in and out of these levels throughout play. They are Village level, Unit Level and Character level. 
+
+Village level specifically deals with issues of the village - stats, moves, population etc. This level is managed by all the players. The village is their central, binding, character. 
+
+Unit level is where a lot of combat happens. Units are used to drive home just how much bigger and badder nearly everything is! A single murder hobo can be a unit, a dragon might be a unit or a group of 10 kobolds might be a unit. Units have two stats; morale is their hit points and damage is the amount of damage they do per round to other units. At this level you can equate 10 points of character level damage or 10 character hit points to 1 unit level damage and 1 morale. 10=1, easy peasy. Decisions here should be taken by the group as a whole. 
+
+At the character level you have each players individual kobold and their progeny. This is each players unique kobold family where they make all the decisions and 
+
+####Kobold level Combat
+
+As a champion kobold you deal 1d6+str damage in melee and 1d6+dex at range. This can be modified by village moves and certain weapons. If your hit points reach 0 you are dead. There is no last breath, there is no chance to heal. Kobolds die and die regularly, deal with it.
+
+
+####Unit level Combat
+
+Units have two stats, damage and morale. Each round a unit will deal its damage to the opposing units morale. If morale reaches 0 all members of the unit are considered dead. Congratulations, you've just helped kill off 1/5th of your population - hope it was worth it!
+
+A single village kobold will do 1 point of damage per round, units are made up of 10 kobolds. When working at a unit level, assume 1 unit damage for every 10 kobolds and 10 hit points for every 1 morale. A murder hobo with 3 morale has 30 hit points for character to npc damage and 3 morale for unit level damage. 
+
+
 
 
 ##The First Session
@@ -86,7 +115,7 @@ Your village is a central character of No Country For Old Kobolds. The task of a
 
 As your village grows your Kobolds will start to inherit new abilities and tactics passed down from their parents in the form of shared moves. These moves allow for new units on the battle field, the alleviation of wants, the cessation - for a time - of an external pressure and overall improvements to your Kobolds health and abilities. If your village is destroyed, all is lost. This is the central tenant in Kobold society. 
 
-Throughout the game you'll need to keep tabs on how much pressure is being applied by the surrounding kingdoms and how dire your villages wants have gotten. Your Kobolds and their progeny are the leaders and warriors of the village, they are the epitome of Kobold kind... though the other races don't seem to think much of that.
+Throughout the game you'll need to keep tabs on how much pressure is being applied by the surrounding kingdoms and how dire your villages wants have gotten. Your Kobolds and their progeny are the leaders and warriors of the village, they are the epitome of Kobold kind... though the other races don't seem to think much of that. Throughout the rest of the text you'll see player characters referred to as champions. 
 
 #####Stats
 The village has the following stats
@@ -291,17 +320,7 @@ When your Kobold dies one of their children will step up to take their place. Th
 
 Kobolds inherit their family name as well as 1 of their parents skills in addition to their normal skill set. 
 
-##Playing the game
 
-###Combat
-####Kobold level Combat
-As a champion kobold you deal 1d6+str damage in melee and 1d6+dex at range. This can be modified by village moves and certain weapons. If your hit points reach 0 you are dead. There is no last breath, there is no chance to heal. Kobolds die and die regularly, deal with it.
-
-
-####Unit level Combat
-Units have two stats, damage and morale. Each round a unit will deal its damage to the opposing units morale. If morale reaches 0 all members of the unit are considered dead. Congratulations, you've just helped kill off 1/5th of your population - hope it was worth it!
-
-A single village kobold will do 1 point of damage per round, units are made up of 10 kobolds. When working at a unit level, assume 1 unit damage for every 10 kobolds and 10 hit points for every 1 morale. A murder hobo with 3 morale has 30 hit points for character to npc damage and 3 morale for unit level damage. 
 
 ##Running the Game
 ###GM
