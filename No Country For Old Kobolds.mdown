@@ -25,7 +25,7 @@ If you have a skill that would affect the action you're trying to take on a 6 or
 
 ####Levels of play
 
-This game is built to run on a three different levels of play, you'll zoom in and out of these levels throughout play. They are Village level, Unit Level and Character level. 
+This game is built to run on three different levels of play, you'll zoom in and out of these levels throughout play. They are Village level, Unit Level and Character level. 
 
 Village level specifically deals with issues of the village - stats, moves, population etc. This level is managed by all the players. The village is their central, binding, character. 
 
