@@ -19,11 +19,25 @@ If you have a skill that would affect the action you're trying to take on a 6 or
 
 ##The First Session
 
-To begin each player creates a kingdom that neighbors the land your village is on. Answer the following for each kingdom.
+To begin each player creates a kingdom that neighbors the land your village is on. Answer the following for each kingdom. You can use the lists for each question or come up with your own!
  
 * Who inhabits the Kingdom?
+    **Examples**
+    - Those fucking elves!
+    - Those ground grubbin' dwarves!
+    - Humans, they're everywhere!
+    - Gnolls, savage assholes!
+    - Minotaurs, those cow headed brutes!
+    - Centaurs, human or horse - they're both assholes!
+    - Gnomes, like humans but smaller... and more annoying.
+    - Halflings, are they gnomes or just small humans? We hate them either way.
 
-* How is the kingdom structured? (oligarchy/theocracy/democracy etc.)
+* How is the kingdom structured?
+    **Examples**
+    - Democracy
+    - Theocracy
+    - Oligarchy
+    - Monarchy
 
 * Why do you believe they hate your people?
 
@@ -32,6 +46,12 @@ To begin each player creates a kingdom that neighbors the land your village is o
 * What are they known for?
 
 * What do they want from your lands?  (adds +1 pressure on your village)
+    -Gold!
+    -A rare plant. What is it? Why?
+    -A rare animal. What is it? Why?
+    -Water
+    -Spell ingredients. What? Why?
+
 
 
 ###Making your map
@@ -88,7 +108,6 @@ Answer the following about your village.
 
 **Hardy Kobolds** Your Kobold champions are hardier than other kobolds. They can roll 2d6+con keeping the highest d6 for hit points! Why at that point you're basically a tank!
 
-
 #####10 XP Moves
 **A bit of the ultraviolence** Your champion Kobolds have grown up extra violent! They can deal an additional 1d4 damage when attacking from melee.
 
@@ -103,7 +122,7 @@ Answer the following about your village.
 
     If any unit gained by this move dies the unit is gone forever. You must take protectors in the order listed. You cannot have multiple protectors at one time, each protector replaces the prior one. 
 
-#####Starting Moves
+####Starting Moves
 **Recruit**
 When you would like to recruit additional Kobolds to help with a task roll +teamworks xv Change this to current pop maybe? xv 
 
@@ -113,7 +132,7 @@ On a 7-9 you get one unit of kobolds, reduce your population by 1.
 
 On a 6 or less the other kobolds in the village laugh at you and something terrible happens.
 
-###Population increase
+#####Population increase
 When you fulfill a want for your village you may roll the breed move.
 
 **Breed** 
