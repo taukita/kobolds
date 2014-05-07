@@ -4,8 +4,7 @@
 
 
 ##Introduction
-[xv insert witty opening about murderhobos, kobolds and what not.]
-In the wild the Murder Hobo, xv Adventurus Low Levelus, is the kobolds natural enemy. For thousands of years the kobold race has struggled against the surrounding kingdoms, despreately trying to out breed the ravages visited upon them by their barbaric neighbors. xv moar words!
+In the wild the Murder Hobo, Adventurus Low Levelus, is the kobolds natural enemy. For thousands of years the kobold race has struggled against the surrounding kingdoms, despreately trying to out breed the ravages visited upon them by their barbaric neighbors. xv moar words!
 
 ##Rolling Dice
 
@@ -22,21 +21,35 @@ If you have a skill that would affect the action you're trying to take on a 6 or
 To begin each player creates a kingdom that neighbors the land your village is on. Answer the following for each kingdom. You can use the lists for each question or come up with your own!
  
 * Who inhabits the Kingdom?
+    
     **Examples**
+    
     - Those fucking elves!
+    
     - Those ground grubbin' dwarves!
+    
     - Humans, they're everywhere!
+    
     - Gnolls, savage assholes!
+    
     - Minotaurs, those cow headed brutes!
+    
     - Centaurs, human or horse - they're both assholes!
+    
     - Gnomes, like humans but smaller... and more annoying.
+    
     - Halflings, are they gnomes or just small humans? We hate them either way.
 
 * How is the kingdom structured?
+    
     **Examples**
+
     - Democracy
+    
     - Theocracy
+    
     - Oligarchy
+    
     - Monarchy
 
 * Why do you believe they hate your people?
@@ -47,9 +60,13 @@ To begin each player creates a kingdom that neighbors the land your village is o
 
 * What do they want from your lands?  (adds +1 pressure on your village)
     -Gold!
+
     -A rare plant. What is it? Why?
+
     -A rare animal. What is it? Why?
+
     -Water
+
     -Spell ingredients. What? Why?
 
 
@@ -69,12 +86,10 @@ As your village grows your Kobolds will start to inherit new abilities and tacti
 Throughout the game you'll need to keep tabs on how much pressure is being applied by the surrounding kingdoms and how dire your villages wants have gotten. Your Kobolds and their progeny are the leaders and warriors of the village, they are the epitome of Kobold kind... though the other races don't seem to think much of that.
 
 #####Stats
-The village has 6 stats
+The village has the following stats
 
 >Warfare - How well your village can go on the offensive in order to protect itself.
-
->Adaptability - How well your village can adapt an ever changing situation.
-
+s
 >Hardiness - How healthy your village is and what size your population is.
 
 >Ingenuity - How clever and industrious your village is.
@@ -83,7 +98,7 @@ The village has 6 stats
 
 >Secrecy - How well your village keeps itself hidden using camouflage or trickery -- or both!
 
-Your population is 3x your hardiness, minimum 1. Once your population reaches zero your village is razed and you've failed as Kobolds.
+Your population is 3x your hardiness, minimum 3. Once your population reaches zero your village is razed and you've failed as Kobolds.
 
 Assign the following to your stats 3,2,2,1,1,0 to your village.
 
@@ -112,6 +127,7 @@ Answer the following about your village.
 **A bit of the ultraviolence** Your champion Kobolds have grown up extra violent! They can deal an additional 1d4 damage when attacking from melee.
 
 **Fuck you we have a ______** This move can be taken multiple times. Each subsequent time changes the type of protector you can have.
+    
     *Wizard! A wizard of some variety has taken up residence in your village! What sort of wizard is it? - Gain 4 2dmg 4morale units for future raids. Adds +want, describe the want.
 
     *Troll! A mighty troll has taken up residence in the village! What's its name? - Gain 1 2dmg 4morale unit that regenerates 1morale per round. Adds +want, describe the want.
@@ -123,6 +139,7 @@ Answer the following about your village.
     If any unit gained by this move dies the unit is gone forever. You must take protectors in the order listed. You cannot have multiple protectors at one time, each protector replaces the prior one. 
 
 ####Starting Moves
+[xv may cut this entirely]
 **Recruit**
 When you would like to recruit additional Kobolds to help with a task roll +teamworks xv Change this to current pop maybe? xv 
 
@@ -220,7 +237,7 @@ Every Kobold starts with 2+Wis abilities. By necessity Kobolds don't over specia
 
 * Backstab: If you attack from concealment deal +3 damage.
 
-* Lucky: Once per day you may count a 6- as a 7-9.
+* Lucky: Once per day you may count a 6 or less as a 7-9.
 
 * Reflexes: You always go first and can react when surprised.
 
