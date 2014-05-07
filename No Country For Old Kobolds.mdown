@@ -82,13 +82,26 @@ Answer the following about your village.
 5. What critical resource is in short supply, how do you acquire this resource? Add this as a +want for your village.
 
 ###Village Moves
+
+#####5 XP Moves
 **Kobold Riders** Your Kobolds are now mounted warriors! This allows your Kobolds to always succeed in running away! Describe what your Kobolds ride and how they domesticated these beasts!
 
 **Hardy Kobolds** Your Kobold champions are hardier than other kobolds. They can roll 2d6+con keeping the highest d6 for hit points! Why at that point you're basically a tank!
 
+
+#####10 XP Moves
 **A bit of the ultraviolence** Your champion Kobolds have grown up extra violent! They can deal an additional 1d4 damage when attacking from melee.
 
-**
+**Fuck you we have a ______** This move can be taken multiple times. Each subsequent time changes the type of protector you can have.
+    *Wizard! A wizard of some variety has taken up residence in your village! What sort of wizard is it? - Gain 4 2dmg 4morale units for future raids. Adds +want, describe the want.
+
+    *Troll! A mighty troll has taken up residence in the village! What's its name? - Gain 1 2dmg 4morale unit that regenerates 1morale per round. Adds +want, describe the want.
+
+    *Necromancer! A terrible necromancer has taken up residence in your village! Gain 5 1dmg 2morale units, gain 2 additional each breed. +want, describe the want
+
+    *Dragon! A mighty dragon has taken up residence in your village! What sort of dragon is it? - Gain 1 5dmg 5morale unit. +want, describe the want.
+
+    If any unit gained by this move dies the unit is gone forever. You must take protectors in the order listed. You cannot have multiple protectors at one time, each protector replaces the prior one. 
 
 #####Starting Moves
 **Recruit**
@@ -110,7 +123,7 @@ On a 7-9 add 1d6 to your population but add +want.
 On a 6 or less something terrible has happened. 
 
 ##Want clocks
-Each want has a clock, as it increases so does the pressure of that want. If a want reaches 6 [xv I dunno... maybe higher?] you lose 1 population.
+Each want has a clock, as it increases so does the pressure of that want. If a want reaches 6 you lose 1 population. When a clock reaches 10 you lose 1 population. When you reach 12 you lose 1d6 population!
 
 Now it's time to create your Kobolds! 
 
@@ -148,6 +161,7 @@ Kobolds have 6 stats.
 >Charisma - How well liked you are by other Kobolds, you're never liked by other races.
 
 For your first generation Kobold assign the following to your stats in any order 1,1,0,0,-1,-1. All future Kobolds will inherit their parents stat block. 
+
 #####Hit Points
 1d6+Con
 
@@ -252,7 +266,7 @@ A single village kobold will do 1 point of damage per round, units are made up o
 
 ##Running the Game
 ###GM
-GMing *No Country For Old Kobolds* isn't terribly different from GMing a normal game of Dungeon World. The major changes are you Agendas.
+GMing *No Country For Old Kobolds* isn't terribly different from GMing a normal game of Dungeon World. The major changes are you Agendas and the addition of wants and external pressures.
 
 ###Agendas
 You should do the following at all times while running *No Country For Old Kobolds*
@@ -273,15 +287,18 @@ You should do the following at all times while running *No Country For Old Kobol
 * Embrace the fantastic
 * Make moves that follow the fiction
 * Never speak the name of your moves
-
-
+* Use wants to drive the story
+* Use external pressures to fill gaps in the world
 
 ###Village Wants
-Wants are constant throughout the story. Use a clock for each want in the village and use your moves to advance the clocks. When a clock reaches midnight it has become so critical that 1d4 population are lost because of it. 
-[xv information on how to leverage wants to drive fiction]
+Wants are constant throughout the story. Use a clock for each want in the village and use your moves to advance the clocks. When a clock reaches 6 the village loses 1 population, when it reaches 10 they lose another when it reaches midnight it has become so critical that 1d6 population are lost because of it. Inform the fiction with these clocks! Has the village been remiss in providing their dragon gaurdian with gold and gems for its hoard! Then talk about how it gets upset, storms through the village eating and burning that 2d6 kobolds! 
+
+Be true to the wants, don't pull punches here. These are the players clocks to manage! If they choose to ignore a clock you are obligated by your principles to bring that want to bear. 
 
 ###External Pressures
-[xv information on how to leverage external pressures to drive fiction]
+External pressures are outside of the players control, they're your special little somethings that you can throw at the players whenever you get a chance to make a hard move. External pressures are also used to flesh out the world as a whole, each pressure informs a specific part of the world and subsequently the fiction. These let you expand on the fiction attached to each surrounding kingdom and the predators that surround the village. 
+
+If you find yourself not knowing what to throw at the players, bring a pressure to bear! Pressures are wonderful complications that the players have created for you, use them liberally!
 
 
 ###Murder Hobos
