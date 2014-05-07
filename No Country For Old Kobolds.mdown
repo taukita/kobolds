@@ -59,6 +59,7 @@ To begin each player creates a kingdom that neighbors the land your village is o
 * What are they known for?
 
 * What do they want from your lands?  (adds +1 pressure on your village)
+   
     -Gold!
 
     -A rare plant. What is it? Why?
