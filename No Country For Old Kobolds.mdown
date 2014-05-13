@@ -147,7 +147,7 @@ The village has the following stats
 
 >Secrecy - How well your village keeps itself hidden using camouflage or trickery -- or both!
 
-Your population is 3x your hardiness, minimum 3. Once your population reaches zero your village is razed and you've failed as Kobolds.
+Your population is 4x your hardiness, minimum 4. Once your population reaches zero your village is razed and you've failed as Kobolds.
 
 Assign the following to your stats 3,2,1,1,0 to your village.
 
