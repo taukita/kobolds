@@ -168,7 +168,7 @@ Answer the following about your village.
 ###Village Moves
 ####Starting Moves
 **Recruit**
-When you would like to recruit additional Kobolds to help with a task roll +teamworks xv Change this to current pop maybe? xv 
+When you would like to recruit additional Kobolds to help with a task roll +teamwork
 
 On a 10+ you get two units of kobolds, reduce your population by 2. 
 
