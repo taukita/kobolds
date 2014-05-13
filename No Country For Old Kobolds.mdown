@@ -11,6 +11,7 @@ Kobolds don't know why they are so hated, all they know is that they are. It's t
 No Country For Old Kobolds is a game built to explore the situation that kobolds in normal fantasy games find themselves in. Why are they so hated? What effect does constant genocide attempts by first level adventurers have on them as a people? It can be depressing, it can be funny and it can be dark. It's usually a bit of each. It's black comedy that goes for the jugular.
 
 I hope you have fun.
+
 ##Playing the game
 
 ###Combat
@@ -29,9 +30,9 @@ This game is built to run on three different levels of play, you'll zoom in and 
 
 Village level specifically deals with issues of the village - stats, moves, population etc. This level is managed by all the players. The village is their central, binding, character. 
 
-Unit level is where a lot of combat happens. Units are used to drive home just how much bigger and badder nearly everything is! A single murder hobo can be a unit, a dragon might be a unit or a group of 10 kobolds might be a unit. Units have two stats; morale is their hit points and damage is the amount of damage they do per round to other units. At this level you can equate 10 points of character level damage or 10 character hit points to 1 unit level damage and 1 morale. 10=1, easy peasy. Decisions here should be taken by the group as a whole. 
+Unit level is where a lot of combat happens. Units are used to drive home just how much bigger and badder nearly everything is! A single murder hobo can be a unit, a dragon might be a unit or a group of 10 kobolds might be a unit. Units have two stats; morale and damage. Morale is analogous to hit points, 1 morale point equals 10 character level hit points. Damage is just that, the damage a unit does each round. 1 point of unit level damage is equal to 10 points of character level damage. This rule of 1=10 allows for easy conversion between the two levels of play and allows player level characters to have an affect on larger battles.
 
-At the character level you have each players individual kobold and their progeny. At this level each player is making decisions for their own kobolds. 
+At the character level you have each players individual kobold and their progeny. This level plays like a normal World of Dungeons style game.
 
 ####Unit level Combat
 
@@ -100,14 +101,14 @@ To begin each player creates a kingdom that neighbors the land your village is o
 
 
 ###Making your map
-Using your village as the center point draw a landmark to represent each Kingdom on your map. It can be the capital city, a great dungeon that exists in the kingdom's borders, a road, a forest or anything else you can think up!
+Using your village as the center point draw a landmark to represent each Kingdom on your map. It can be the capital city, a dungeon that exists in the kingdom's borders, a road, a forest or anything else you can think up!
 
 
 ##Creating Your Village
 
 *If your village is destroyed, all is lost. This is the central tenant in Kobold society.*
 
-Your village is a central character of No Country For Old Kobolds. The task of all Kobolds is to make sure the village survives and prospers in the face of horrible external pressure. 
+Your village is the central character of No Country For Old Kobolds. The task of all Kobolds is to make sure the village survives and prospers in the face of horrible external pressure. 
 
 As your village grows your Kobolds will start to inherit new abilities and tactics passed down from their parents in the form of shared moves. These moves allow for new units on the battle field, the alleviation of wants, the cessation - for a time - of an external pressure and overall improvements to your Kobolds health and abilities. If your village is destroyed, all is lost. This is the central tenant in Kobold society. 
 
@@ -117,7 +118,7 @@ Throughout the game you'll need to keep tabs on how much pressure is being appli
 The village has the following stats
 
 >Warfare - How well your village can go on the offensive in order to protect itself.
-s
+
 >Hardiness - How healthy your village is and what size your population is.
 
 >Ingenuity - How clever and industrious your village is.
@@ -128,7 +129,7 @@ s
 
 Your population is 3x your hardiness, minimum 3. Once your population reaches zero your village is razed and you've failed as Kobolds.
 
-Assign the following to your stats 3,2,2,1,1,0 to your village.
+Assign the following to your stats 3,2,1,1,0 to your village.
 
 
 ###Village Background
@@ -167,7 +168,6 @@ Answer the following about your village.
     If any unit gained by this move dies the unit is gone forever. You must take protectors in the order listed. You cannot have multiple protectors at one time, each protector replaces the prior one. 
 
 ####Starting Moves
-[xv may cut this entirely]
 **Recruit**
 When you would like to recruit additional Kobolds to help with a task roll +teamworks xv Change this to current pop maybe? xv 
 
@@ -177,10 +177,9 @@ On a 7-9 you get one unit of kobolds, reduce your population by 1.
 
 On a 6 or less the other kobolds in the village laugh at you and something terrible happens.
 
-#####Population increase
-When you fulfill a want for your village you may roll the breed move.
-
 **Breed** 
+This move is only triggered when at least 1 kobold returns from a mission that resets a +want clock.
+
 Your village has entered a breeding phase. Roll +hardiness
 On a 10+ add 1d6 to your population.
 On a 7-9 add 1d6 to your population but add +want.
