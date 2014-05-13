@@ -376,6 +376,12 @@ If you find yourself not knowing what to throw at the players, bring a pressure 
 ###Murder Hobos
 Murder hobos are the kobolds natural enemy in the wild. 
 
+
+#####Thanks things
+Thanks to Travis Scott, Rory MacLeod and Jason Cox for being great playtesters.Thanks to John Harper for creating a great base for quick character creation with World of Dungeons.
+Thanks to Sage LaTorra and Adam Koebel for Dungeon World and being generous enough to let me use bits of Inglorious in this hack!
+
+
 #####Copyright things
 Dungeon World is copyright Sage LaTorra and Adam Koebel licensed under the Creative Commons Attribution 3.0 Unported License.
 
