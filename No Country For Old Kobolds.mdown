@@ -8,7 +8,7 @@
 
 Kobolds don't know why they are so hated, all they know is that they are. It's the world they live in and considering they only live around 2 years - though they could live much longer if it werent for the constant pressures - they hardly have time to find out.
 
-No Country For Old Kobolds is a game built to explore the situation that kobolds in normal fantasy games find themselves in. Why are they so hated? What effect does constant genocide attempts by first level adventurers have on them as a people? It can be depressing, it can be funny and it can be dark. It's usually a bit of all of those. It's black comedy that goes for the jugular.
+No Country For Old Kobolds is a game built to explore the situation that kobolds in normal fantasy games find themselves in. Why are they so hated? What effect does constant genocide attempts by first level adventurers have on them as a people? It can be depressing, it can be funny and it can be dark. It's usually a bit of each. It's black comedy that goes for the jugular.
 
 I hope you have fun.
 ##Playing the game
@@ -31,21 +31,17 @@ Village level specifically deals with issues of the village - stats, moves, popu
 
 Unit level is where a lot of combat happens. Units are used to drive home just how much bigger and badder nearly everything is! A single murder hobo can be a unit, a dragon might be a unit or a group of 10 kobolds might be a unit. Units have two stats; morale is their hit points and damage is the amount of damage they do per round to other units. At this level you can equate 10 points of character level damage or 10 character hit points to 1 unit level damage and 1 morale. 10=1, easy peasy. Decisions here should be taken by the group as a whole. 
 
-At the character level you have each players individual kobold and their progeny. This is each players unique kobold family where they make all the decisions and 
+At the character level you have each players individual kobold and their progeny. At this level each player is making decisions for their own kobolds. 
+
+####Unit level Combat
+
+Units have two stats, damage and morale. Each round a unit will deal its damage to the opposing units morale. If morale reaches 0 all members of the unit are considered dead. Congratulations, you've just helped kill off something like 1/5th of your population - hope it was worth it!
+
+A single village kobold will do 1 point of damage per round, units are made up of 10 kobolds. When working at a unit level, assume 1 unit damage for every 10 kobolds and 10 hit points for every 1 morale. A murder hobo with 3 morale has 30 hit points for pc to npc damage and 3 morale for unit level damage. 
 
 ####Kobold level Combat
 
 As a champion kobold you deal 1d6+str damage in melee and 1d6+dex at range. This can be modified by village moves and certain weapons. If your hit points reach 0 you are dead. There is no last breath, there is no chance to heal. Kobolds die and die regularly, deal with it.
-
-
-####Unit level Combat
-
-Units have two stats, damage and morale. Each round a unit will deal its damage to the opposing units morale. If morale reaches 0 all members of the unit are considered dead. Congratulations, you've just helped kill off 1/5th of your population - hope it was worth it!
-
-A single village kobold will do 1 point of damage per round, units are made up of 10 kobolds. When working at a unit level, assume 1 unit damage for every 10 kobolds and 10 hit points for every 1 morale. A murder hobo with 3 morale has 30 hit points for character to npc damage and 3 morale for unit level damage. 
-
-
-
 
 ##The First Session
 
